@@ -1,4 +1,4 @@
-<h2>修改使用者</h2>
+<h2>修改使用者資料</h2>
 <form action="<?= site_url('users/create')?>" method="post">
   Id : <input name="id" type="text"> <br />
   Tel : <input name="tel" type="text"> <br />
